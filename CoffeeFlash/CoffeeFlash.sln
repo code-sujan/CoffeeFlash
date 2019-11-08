@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeFlash", "CoffeeFlash.csproj", "{A414BFA8-E5DF-4454-BADE-25D03B0A275C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeFlashExample", "..\CoffeeFlashExample\CoffeeFlashExample.csproj", "{02C010BE-5972-43BF-A287-83935FCB2F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A414BFA8-E5DF-4454-BADE-25D03B0A275C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A414BFA8-E5DF-4454-BADE-25D03B0A275C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A414BFA8-E5DF-4454-BADE-25D03B0A275C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A414BFA8-E5DF-4454-BADE-25D03B0A275C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C010BE-5972-43BF-A287-83935FCB2F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C010BE-5972-43BF-A287-83935FCB2F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C010BE-5972-43BF-A287-83935FCB2F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C010BE-5972-43BF-A287-83935FCB2F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F9B7AE9-D7CC-4814-840D-72FD5784A15D}
+	EndGlobalSection
+EndGlobal
